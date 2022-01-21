@@ -31,7 +31,7 @@ Note: The Quartus Prime software is a full-featured EDA product. Depending on yo
 * or you can download Combined Files(usually not recommended)
 * Newer Version not recommended because of registration stuff 
 * You can choose any TempMail website for dummy registration
-Link- https://fpgasoftware.intel.com/20.1.1/?edition=lite&platform=windows
+* Link- https://fpgasoftware.intel.com/20.1.1/?edition=lite&platform=windows
 
 ### Step2- Save all in One Sigle folder name- 'Quartus Prime Lite Edition (Free) V20.1.1'
 ### Step3- Run .exe named "QuartusLiteSetup-20.1.1.720-windows.exe"
