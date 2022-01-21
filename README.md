@@ -2,11 +2,11 @@
 Here i will share FPGA Designing, Synthesis and Simulation Related documents
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/87929992/150519753-dd653470-acbf-4174-a9cc-4f73823d4bdf.png)
 
-Download and Install FPGA Tool from intel (free version)
+# Download and Install FPGA Tool from intel (free version)
 Tool List-----
 Step1-
 -----Individual Files-----
-Quartus Prime (includes Nios II EDS)
+*Quartus Prime (includes Nios II EDS)
 Size: 1.6 GB MD5: 5F6CFEBDB7B3CB35E033D2A9F5D59AC4
 
 ModelSim-Intel FPGA Edition (includes Starter Edition)
