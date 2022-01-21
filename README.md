@@ -1,4 +1,4 @@
-# FPGA-Programming
+## FPGA-Programming
 Here i will share FPGA Designing, Synthesis and Simulation Related documents
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/87929992/150519753-dd653470-acbf-4174-a9cc-4f73823d4bdf.png)
 
